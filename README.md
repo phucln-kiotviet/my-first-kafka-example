@@ -55,7 +55,7 @@ docker-compose down
 ```
 
 ## kafka python client
-- From this official [getting started](https://developer.confluent.io/get-started/python/)
+
 - Create venv:
 ```commandline
 python3 -m venv env
