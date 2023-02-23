@@ -1,5 +1,7 @@
 # kafka docker
 
+
+## Docker-compose
 - This from [official document](https://developer.confluent.io/quickstart/kafka-docker/)
 - Start kafka broker:
 ```commandline
@@ -51,3 +53,6 @@ kafka-console-producer --bootstrap-server broker:9092 \
 ```commandline
 docker-compose down
 ```
+
+## kafka python client
+- From this official [getting started](https://developer.confluent.io/get-started/python/)
